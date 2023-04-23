@@ -84,6 +84,7 @@ Here are some example projects using pest:
 - [pest.vim](https://github.com/pest-parser/pest.vim)
 - [pest-fmt](https://github.com/pest-parser/pest-fmt) can help to format
 pest grammars (try it [online](https://pest.rs/#editor))
+- [pest web debugger](https://github.com/tomtau/pest-web-debug)  (try it [online](http://tomtau.github.io/pest-web-debug/))
 
 ### Boilerplate reduction and testing
 
