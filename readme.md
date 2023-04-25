@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="img/pest-logo.svg" width="80%"/>
+  <img src="https://raw.githubusercontent.com/pest-parser/pest/master/pest-logo.svg?sanitize=true" width="80%"/>
 </p>
 
 # Awesome Pest. The Elegant Parser [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome projects and tools using or for the pest parser generator in Rust
+> A curated list of resources, projects, and tools using or for the pest parser generator in Rust
 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
 
@@ -17,7 +18,6 @@ which offer the enhanced expressivity needed to parse complex languages.
 - [Resources](#resources)
 - [Projects](#projects)
 - [Tooling](#tooling)
-- [Contribute](#contribute)
 
 ## Resources
 
@@ -87,7 +87,3 @@ help with the parse tree traversing boilerplate.
 ### CLI Debugger
 
 - [pest_debugger](https://docs.rs/pest_debugger/latest/pest_debugger/) - It is a crate for debugging pest grammars. It can be used as a CLI tool or as a library. [See instructions for using the CLI debugger](debugger.md).
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
