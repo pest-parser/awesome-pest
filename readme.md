@@ -14,11 +14,9 @@ correctness, and performance. It uses parsing expression grammars
 (or [PEG](https://en.wikipedia.org/wiki/Parsing_expression_grammar)) as input, which are similar in spirit to regular expressions, but
 which offer the enhanced expressivity needed to parse complex languages.
 
-### Awesome lists
-
-* [Resources](https://github.com/pest-parser/awesome-pest/blob/main/readme.md#resources)
-* [Projects](https://github.com/pest-parser/awesome-pest/blob/main/readme.md#projects)
-* [Tooling](https://github.com/pest-parser/awesome-pest/blob/main/readme.md#tooling)
+- [Resources](#resources)
+- [Projects](#projects)
+- [Tooling](#tooling)
 
 ## Resources
 
