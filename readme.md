@@ -27,36 +27,30 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Here are some example projects using pest:
 
-- [pest_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) (bootstrapped)
-- [AshPaper](https://github.com/shnewto/ashpaper)
-- [brain](https://github.com/brain-lang/brain)
-- [cicada](https://github.com/mitnk/cicada)
-- [comrak](https://github.com/kivikakk/comrak)
-- [elastic-rs](https://github.com/cch123/elastic-rs)
-- [graphql-parser](https://github.com/Keats/graphql-parser)
-- [handlebars-rust](https://github.com/sunng87/handlebars-rust)
-- [hexdino](https://github.com/Luz/hexdino)
-- [Huia](https://gitlab.com/jimsy/huia/)
-- [insta](https://github.com/mitsuhiko/insta)
-- [jql](https://github.com/yamafaktory/jql)
-- [json5-rs](https://github.com/callum-oakley/json5-rs)
-- [mt940](https://github.com/svenstaro/mt940-rs)
-- [Myoxine](https://github.com/d3bate/myoxine)
-- [py_literal](https://github.com/jturner314/py_literal)
-- [rouler](https://github.com/jarcane/rouler)
-- [RuSh](https://github.com/lwandrebeck/RuSh)
-- [rs_pbrt](https://github.com/wahn/rs_pbrt)
-- [stache](https://github.com/dgraham/stache)
-- [tera](https://github.com/Keats/tera)
-- [ui_gen](https://github.com/emoon/ui_gen)
-- [ukhasnet-parser](https://github.com/adamgreig/ukhasnet-parser)
-- [ZoKrates](https://github.com/ZoKrates/ZoKrates)
-- [Vector](https://github.com/timberio/vector)
-- [AutoCorrect](https://github.com/huacnlee/autocorrect)
-- [yaml-peg](https://github.com/aofdev/yaml-peg)
-- [qubit](https://github.com/abhimanyu003/qubit)
+- [pest_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) - The pest itself is bootstrapped using pest.
+- [AshPaper](https://github.com/shnewto/ashpaper) - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
+- [cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust.
+- [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
+- [elastic-rs](https://github.com/cch123/elastic-rs) - Convert bool expressions to Elasticsearch DSL in Rust.
+- [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
+- [hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.
+- [insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust.
+- [jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool.
+- [json5-rs](https://github.com/callum-oakley/json5-rs) - A Rust JSON5 serializer and deserializer which speaks Serde.
+- [mt940](https://github.com/svenstaro/mt940-rs) - A MT940 parser in Rust.
+- [py_literal](https://github.com/jturner314/py_literal) - Rust crate for parsing/formatting Python literals.
+- [rouler](https://github.com/jarcane/rouler) - An easy to use dice rolling library for Rust.
+- [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
+- [rs_pbrt](https://github.com/wahn/rs_pbrt) - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
+- [stache](https://github.com/dgraham/stache) - A Mustache template compiler.
+- [tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django.
+- [ZoKrates](https://github.com/ZoKrates/ZoKrates) - A toolbox for zkSNARKs on Ethereum.
+- [Vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
+- [AutoCorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+- [yaml-peg](https://github.com/aofdev/yaml-peg) - PEG parser for YAML written in Rust.
+- [qubit](https://github.com/abhimanyu003/qubit) - A handy calculator, based on Rust and WebAssembly.
 - [caith](https://github.com/Geobert/caith) - A dice roller crate.
-- [Melody](https://github.com/yoav-lavi/melody)
+- [Melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 
 ## Tooling
 
@@ -72,10 +66,8 @@ pest grammars.
 
 ### Boilerplate reduction and testing
 
-- [pest-ast](https://github.com/pest-parser/ast) - It can help to reduce boilerplate
-when converting pest parse trees to abstract syntax trees.
-- [pest_consume](https://crates.io/crates/pest_consume) - This crate can 
-help with the parse tree traversing boilerplate.
+- [pest-ast](https://github.com/pest-parser/ast) - It can help to reduce boilerplate when converting pest parse trees to abstract syntax trees.
+- [pest_consume](https://crates.io/crates/pest_consume) - This crate can help with the parse tree traversing boilerplate.
 - [pest-test](https://crates.io/crates/pest-test) - It is a testing framework for pest grammars.
 
 
