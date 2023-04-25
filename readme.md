@@ -1,6 +1,6 @@
 # Awesome Pest. The Elegant Parser [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://avatars.githubusercontent.com/u/26044607" align="right" width="100">](https://pest.rs)
+[<img src="https://avatars.githubusercontent.com/u/26044607" align="right" width="100">](https://github.com/pest-parser/pest/)
 
 > A curated list of resources, projects, and tools using or for the pest parser generator in Rust
 
