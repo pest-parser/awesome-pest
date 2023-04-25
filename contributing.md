@@ -8,9 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Use the following format: `[title](link) - Description.`
+- Additions should be added to the bottom of the relevant section.
+- Keep descriptions short and simple, but descriptive.
+- Start the description with a capital and end with a full stop/period.
 
 Thank you for your suggestions!
 
