@@ -23,7 +23,7 @@ which offer the enhanced expressivity needed to parse complex languages.
 
 - [Book](https://pest.rs/book) - The recommended way to start parsing with pest is to read this official book.
 - [API reference on docs.rs](https://docs.rs/pest)
-- [fiddle editor on pest.rs](https://pest.rs/#editor) - Play with grammars and share them on the official website.
+- [fiddle editor on pest.rs](https://pest.rs/#editor) - Play with grammars and share them on the official website (and format them!).
 - [Gitter](https://gitter.im/pest-parser/pest)
 - [Discord](https://discord.gg/XEGACtWpT2)
 - [GitHub Discussions](https://github.com/pest-parser/pest/discussions)
@@ -72,8 +72,8 @@ Here are some example projects using pest:
 - [IntelliJ IDEA Plugin](https://plugins.jetbrains.com/plugin/12046-pest)
 - [pest.vim](https://github.com/pest-parser/pest.vim)
 - [pest-fmt](https://github.com/pest-parser/pest-fmt) - It can help to format
-pest grammars (try it [online](https://pest.rs/#editor)).
-- [pest web debugger](https://github.com/tomtau/pest-web-debug) - Try it [online](http://tomtau.github.io/pest-web-debug/).
+pest grammars.
+- [pest web debugger](https://github.com/tomtau/pest-web-debug) - Try it [online](https://tomtau.github.io/pest-web-debug/).
 
 ### Boilerplate reduction and testing
 
@@ -86,7 +86,7 @@ help with the parse tree traversing boilerplate.
 
 ### CLI Debugger
 
-- [pest_debugger](https://docs.rs/pest_debugger/latest/pest_debugger/) - It is a crate for debugging pest grammars. It can be used as a CLI tool or as a library. [See instructions for using the CLI debugger](./debugger.md).
+- [pest_debugger](https://docs.rs/pest_debugger/latest/pest_debugger/) - It is a crate for debugging pest grammars. It can be used as a CLI tool or as a library. [See instructions for using the CLI debugger](debugger.md).
 
 ## Contribute
 
