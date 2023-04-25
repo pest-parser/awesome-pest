@@ -16,15 +16,15 @@ which offer the enhanced expressivity needed to parse complex languages.
 
 ### Awesome lists
 
-* [Resources for pest](#resources)
-* [Projects using pest](#projects)
-* [Tooling for pest](#tooling)
+* [Resources](https://github.com/pest-parser/awesome-pest/blob/main/readme.md#resources)
+* [Projects](https://github.com/pest-parser/awesome-pest/blob/main/readme.md#projects)
+* [Tooling](https://github.com/pest-parser/awesome-pest/blob/main/readme.md#tooling)
 
 ## Resources
 
-* [book](https://pest.rs/book) - the recommended way to start parsing with pest is to read this official book.
+* [Book](https://pest.rs/book) - the recommended way to start parsing with pest is to read this official book.
 * [API reference on docs.rs](https://docs.rs/pest)
-* [pest.rs fiddle editor](https://pest.rs/#editor) - play with grammars and share them on the official website.
+* [fiddle editor on pest.rs](https://pest.rs/#editor) - play with grammars and share them on the official website.
 * [Gitter](https://gitter.im/pest-parser/pest)
 * [Discord](https://discord.gg/XEGACtWpT2)
 * [GitHub Discussions](https://github.com/pest-parser/pest/discussions)
@@ -61,28 +61,28 @@ Here are some example projects using pest:
 * [AutoCorrect](https://github.com/huacnlee/autocorrect)
 * [yaml-peg](https://github.com/aofdev/yaml-peg)
 * [qubit](https://github.com/abhimanyu003/qubit)
-* [caith](https://github.com/Geobert/caith) - a dice roller crate
+* [caith](https://github.com/Geobert/caith) - a dice roller crate.
 * [Melody](https://github.com/yoav-lavi/melody)
 
 ## Tooling
 
 ### IDE Support
 
-* [pest IDE tools](https://github.com/pest-parser/pest-ide-tools) - a main repository with LSP server and VSCode extension
+* [pest IDE tools](https://github.com/pest-parser/pest-ide-tools) - a main repository with LSP server and VSCode extension.
 * [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=pest.pest-ide-tools)
 * [IntelliJ IDEA Plugin](https://plugins.jetbrains.com/plugin/12046-pest)
 * [pest.vim](https://github.com/pest-parser/pest.vim)
 * [pest-fmt](https://github.com/pest-parser/pest-fmt) - it can help to format
-pest grammars (try it [online](https://pest.rs/#editor))
-* [pest web debugger](https://github.com/tomtau/pest-web-debug) - try it [online](http://tomtau.github.io/pest-web-debug/)
+pest grammars (try it [online](https://pest.rs/#editor)).
+* [pest web debugger](https://github.com/tomtau/pest-web-debug) - try it [online](http://tomtau.github.io/pest-web-debug/).
 
 ### Boilerplate reduction and testing
 
 * [pest-ast](https://github.com/pest-parser/ast) - it can help to reduce boilerplate
-when converting pest parse trees to abstract syntax trees
+when converting pest parse trees to abstract syntax trees.
 * [pest_consume](https://crates.io/crates/pest_consume) - this crate can 
-help with the parse tree traversing boilerplate
-* [pest-test](https://crates.io/crates/pest-test) - it is a testing framework for pest grammars
+help with the parse tree traversing boilerplate.
+* [pest-test](https://crates.io/crates/pest-test) - it is a testing framework for pest grammars.
 
 
 ### CLI Debugger
