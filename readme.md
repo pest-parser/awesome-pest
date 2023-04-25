@@ -1,12 +1,14 @@
 # Awesome Pest. The Elegant Parser [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="https://avatars.githubusercontent.com/u/26044607" align="right" width="100">](https://electronjs.org)
+
 > A curated list of resources, projects, and tools using or for the pest parser generator in Rust
+
+pest is a general purpose parser written in Rust with a focus on accessibility, correctness, and performance. It uses parsing expression grammars (or [PEG](https://en.wikipedia.org/wiki/Parsing_expression_grammar)) as input, which are similar in spirit to regular expressions, but which offer the enhanced expressivity needed to parse complex languages.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## Contents
-
-pest is a general purpose parser written in Rust with a focus on accessibility, correctness, and performance. It uses parsing expression grammars (or [PEG](https://en.wikipedia.org/wiki/Parsing_expression_grammar)) as input, which are similar in spirit to regular expressions, but which offer the enhanced expressivity needed to parse complex languages.
 
 - [Resources](#resources)
 - [Projects](#projects)
