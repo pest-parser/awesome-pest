@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pest-parser/pest/master/pest-logo.svg?sanitize=true" width="80%"/>
-</p>
-
 # Awesome Pest. The Elegant Parser [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources, projects, and tools using or for the pest parser generator in Rust
